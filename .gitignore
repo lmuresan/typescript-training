@@ -1,0 +1,22 @@
+node_modules/
+target/
+.DS_Store
+dist/
+npm-debug.log
+.vscode/
+.idea/
+yarn-error.log
+reports/
+coverage/
+mockserver*.log
+packages/the-wall/.out/
+env/
+*.orig
+lerna-debug.log
+
+storybook-static/
+
+# Visual Tests
+web/regression-tests/actual
+web/regression-tests/diff
+web/regression-tests/visual-tests-baseline

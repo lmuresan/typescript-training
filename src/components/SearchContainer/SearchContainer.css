@@ -1,0 +1,17 @@
+.typography-h120 {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+}
+
+.typography-h320 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+}
+
+.typography-h680 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+}

@@ -1,0 +1,29 @@
+.searchResultItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px;
+
+  color: #fff;
+
+  background-color: #292929;
+}
+
+.searchResultItemContext {
+  margin-bottom: 4px;
+
+  opacity: 0.5;
+}
+
+.searchResultItemTextContainer {
+  margin-right: 4px;
+}
+
+.searchResultItemArrow {
+  flex-shrink: 0;
+
+  width: 15px;
+  height: 15px;
+
+  opacity: 0.5;
+}
